@@ -1,0 +1,27 @@
+# Source files
+src/
+test/
+tests/
+
+# Configuration files
+tsconfig.json
+jest.config.js
+.eslintrc.*
+.prettierrc.*
+
+# Development files
+*.test.ts
+*.spec.ts
+.vscode/
+.idea/
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+
+# Documentation source
+docs/
+examples/
+
+# Development dependencies
+node_modules/
